@@ -1,0 +1,5 @@
+Flask
+nltk
+language-tool-python
+textblob
+proselint
